@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     Browser2 \
     Calendar \
     Camera2 \
+    GcamGo \
     Contacts \
     DeskClock \
     Gallery2 \
